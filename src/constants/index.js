@@ -44,7 +44,7 @@ export const PROJECTS = [
     description:
       "Developing a scalable customer support system using microservices architecture with secure authentication, role-based access control, and real-time communication features.",
     technologies: ["React.js", "Spring Boot", "Hibernate", "JWT", "MySQL"],
-    liveLink: "https://smartsuport.netlify.app/", // add live link when deployed
+    liveLink: "https://smartsupport.netlify.app/", // add live link when deployed
     githubLink: "https://github.com/tushar0945/smartsupport-backend.git", // update if repo is public
   },
   {
