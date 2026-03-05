@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "tushar-patil-portfolio.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "tushar-patil-portfolio.netlify",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://tushar-patil-portfolio.netlify.app/assets/Tp2-0-UiK8DL.png",
+      "type": "image/png",
+      "sizes": "40x32",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 40,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
